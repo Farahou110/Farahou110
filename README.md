@@ -2,7 +2,7 @@
 - 👀 I’m interested in machine language, software developmebt web and cloud services.
 - 🌱 I’m currently a certified software engineer and a data scientist but still learning just as technology always evolves
 - 💞️ I’m looking to collaborate on debugging and developing. 
-- 📫 How to reach me dkipkoech@kabarak.ac.ke or 
+- 📫 How to reach me dkipkoech@kabarak.ac.ke or dennisscorps110@gmail.com
 - 😄 Pronouns: forever a HE
 - ⚡ Fun fact:   SEE 👀, PROCRASTINATION of learning that knowledge left you outdated😄 
 
