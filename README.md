@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on debugging and developing. 
 - 📫 How to reach me dkipkoech@kabarak.ac.ke or dennisscorps110@gmail.com
 - 😄 Pronouns: forever a HE🤩🤩
-- ⚡ Fun fact: told yoh,👀 PROCRASTINATION of learning that knowledge left you outdated😄 
+- ⚡ Fun fact:👀 Procrastination left you outdated😄 
 ----------------------------------------------------------------------------------------------------
 <!---
 Farahou110/Farahou110 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
