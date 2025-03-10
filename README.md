@@ -4,7 +4,7 @@
 - -----------------------------------------------------------------------------------------------
 - 💞️ I’m looking to collaborate on debugging and developing. 
 - 📫 How to reach me dkipkoech@kabarak.ac.ke or dennisscorps110@gmail.com
-- 😄 Pronouns: forever a HE🤩🤩
+- 😄 Pronouns: forever a HIM,HE🤩🤩
 - ⚡ Fun fact:👀 Procrastination left you outdated😄 
 ----------------------------------------------------------------------------------------------------
 <!---
