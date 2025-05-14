@@ -4,6 +4,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F72E&width=435&lines=Software+Engineer;Data+Scientist;Blockchain+Enthusiast;Full-Stack+Developer" alt="Typing Animation" />
 </div>
 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=22F729&width=435&lines=print(%22Hello+World%22);while(True):+code();sleep+=1;print(%22Still+coding...%22)](https://git.io/typing-svg)
 ## 👨‍💻 About Me
 - 👀 Interested in **Data Science**, **Software & Web Development**, and **Cloud Services**
 - 🌱 Certified **Software Engineer** and **Data Scientist** | Pursuing BSc in Computer Science
