@@ -8,7 +8,7 @@
 - ⚡ Fun fact:👀 Procrastination left you outdated😄 
 ----------------------------------------------------------------------------------------------------
 #Languages include
-[![image](https://github.com/user-attachments/assets/6eb312f0-3213-4610-a9a0-48ae82e939e5)](https://www.python.org/) ![image](https://github.com/user-attachments/assets/e2288b7b-58b8-4904-8ee6-149d2f109158)
+####[![image](https://github.com/user-attachments/assets/6eb312f0-3213-4610-a9a0-48ae82e939e5)] ![image](https://github.com/user-attachments/assets/e2288b7b-58b8-4904-8ee6-149d2f109158)
 
 
 
