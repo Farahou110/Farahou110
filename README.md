@@ -43,8 +43,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Farahou110&show_icons=true&theme=radical" alt="GitHub Stats" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Farahou110&theme=radical" alt="GitHub Streak" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farahou110&layout=compact&theme=radical&hide=html,css,javascript&langs_count=6&exclude_repo=repo1,repo2" alt="Top Langs"/>
 </div>
 
 <div align="center">
