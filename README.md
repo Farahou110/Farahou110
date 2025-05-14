@@ -39,9 +39,9 @@
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-**## 🗃️ Databases & Storage**
+**## 🗃️ Databases & Storage##**
 
-<div align="center">
+<div >
   
 ### Relational
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
