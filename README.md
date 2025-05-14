@@ -1,7 +1,11 @@
 # 👋 hey how you doing, I'm Dennis Kipkoech 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=00F72E&width=435&lines=Software+Engineer;Data+Scientist;Blockchain+Enthusiast;Full-Stack+Developer" alt="Typing Animation" />
+  <marquee behavior="scroll" direction="left" scrollamount="10" width="60%">
+    <span style="color:#00F72E; font-family:'Fira Code', monospace; font-size:20px;">
+      Software Engineer • Data Scientist • Blockchain Enthusiast • Full-Stack Developer
+    </span>
+  </marquee>
 </div>
 
 ## 👨‍💻 About Me
