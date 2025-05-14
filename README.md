@@ -1,7 +1,27 @@
 # 👋 hey how you doing, I'm Dennis Kipkoech 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=00F72E&width=435&lines=................................Software+Engineer................................;................................Data+Scientist................................;................................Blockchain+Enthusiast................................;................................Full-Stack+Developer................................" alt="Left-to-right typing" />
+  <style>
+    .scrolling-text {
+      color: #00F72E;
+      font-family: 'Fira Code', monospace;
+      white-space: nowrap;
+      overflow: hidden;
+      width: 80%;
+      margin: 0 auto;
+    }
+    .scrolling-text span {
+      display: inline-block;
+      animation: scroll-left 10s linear infinite;
+    }
+    @keyframes scroll-left {
+      0% { transform: translateX(100%); }
+      100% { transform: translateX(-100%); }
+    }
+  </style>
+  <div class="scrolling-text">
+    <span>Software Engineer • Data Scientist • Blockchain Enthusiast • Full-Stack Developer</span>
+  </div>
 </div>
 
 ## 👨‍💻 About Me
