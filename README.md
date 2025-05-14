@@ -10,7 +10,7 @@
 - 💞️ Looking to collaborate on **debugging** and **development projects**
 - 📫 Reach me: [dkipkoech@kabarak.ac.ke](mailto:dkipkoech@kabarak.ac.ke) | [dennisscorps110@gmail.com](mailto:dennisscorps110@gmail.com)
 - 😄 Pronouns: Forever a **HIM/HE** 🤩
-- ***⚡ Fun fact: Procrastination left you outdated in tech! 🚀
+- *⚡ Fun fact: Procrastination left you outdated in tech! *🚀
 
 ---
 
