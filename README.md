@@ -39,17 +39,6 @@
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Farahou110&show_icons=true&theme=radical" alt="GitHub Stats" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Farahou110&theme=radical" alt="GitHub Streak" width="45%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Farahou110&theme=react-dark" alt="GitHub Activity Graph" width="80%"/>
-</div>
 **## 🗃️ Databases & Storage**
 
 <div align="center">
@@ -63,7 +52,17 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 </div>
+---------------------------------------------------------------------
+## 📊 GitHub Stats
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Farahou110&show_icons=true&theme=radical" alt="GitHub Stats" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Farahou110&theme=radical" alt="GitHub Streak" width="45%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Farahou110&theme=react-dark" alt="GitHub Activity Graph" width="80%"/>
+</div>
 
 ------------------------------------------
 ## 🎯 Current Focus
