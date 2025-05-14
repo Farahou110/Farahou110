@@ -5,7 +5,6 @@
 </div>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=22F729&width=435&lines=print(%22Hello+World%22);while(True):+code();sleep+=1;print(%22Still+coding...%22)](https://git.io/typing-svg)
 ## 👨‍💻 About Me
 - 👀 Interested in **Data Science**, **Software & Web Development**, and  **diving into web3**
 - 🌱 Certified **Software Engineer** and **Data Scientist** | Pursuing BSc in Computer Science
@@ -53,11 +52,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Farahou110&theme=react-dark" alt="GitHub Activity Graph" width="80%"/>
 </div>
 
-<div align="center">
-  <img src="https://github.com/Farahou110/Farahou110/blob/output/github-contribution-grid-snake.svg" alt="Snake eating contributions"/>
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F729&width=435&lines=print(%22Python+Developer%22);while(True):+code())](https://git.io/typing-svg)
-</div>
 
 ## 🎯 Current Focus
 ```python
