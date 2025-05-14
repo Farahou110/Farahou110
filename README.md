@@ -1,20 +1,62 @@
-- 👋 Hi, I’m Dennis Kipkoech 
-- 👀 I’m interested in Data Science, software & web development not to forget cloud services.
-- 🌱 I’m currently a certified software engineer and a data scientist but just as technology always evolves  still learning, currently pursuing Bachelor of Science in Computer Science
-- -----------------------------------------------------------------------------------------------
-- 💞️ I’m looking to collaborate on debugging and developing. 
-- 📫 How to reach me dkipkoech@kabarak.ac.ke or dennisscorps110@gmail.com
-- 😄 Pronouns: forever a HIM,HE🤩🤩
-- ⚡ Fun fact:👀 Procrastination left you outdated😄 
-----------------------------------------------------------------------------------------------------
-#Languages include
-####[![image](https://github.com/user-attachments/assets/6eb312f0-3213-4610-a9a0-48ae82e939e5)] ![image](https://github.com/user-attachments/assets/e2288b7b-58b8-4904-8ee6-149d2f109158)
+# 👋 Hi, I'm Dennis Kipkoech 
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F72E&width=435&lines=Software+Engineer;Data+Scientist;Blockchain+Enthusiast;Full-Stack+Developer" alt="Typing Animation" />
+</div>
 
+## 👨‍💻 About Me
+- 👀 Interested in **Data Science**, **Software & Web Development**, and **Cloud Services**
+- 🌱 Certified **Software Engineer** and **Data Scientist** | Pursuing BSc in Computer Science
+- 💞️ Looking to collaborate on **debugging** and **development projects**
+- 📫 Reach me: [dkipkoech@kabarak.ac.ke](mailto:dkipkoech@kabarak.ac.ke) | [dennisscorps110@gmail.com](mailto:dennisscorps110@gmail.com)
+- 😄 Pronouns: Forever a **HIM/HE** 🤩
+- ⚡ Fun fact: Procrastination leaves you outdated in tech! 🚀
 
+---
 
+## 🛠️ Tech Stack
 
-<!---
-Farahou110/Farahou110 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+### Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+### Blockchain/Web3
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Farahou110&show_icons=true&theme=radical" alt="GitHub Stats" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Farahou110&theme=radical" alt="GitHub Streak" width="45%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Farahou110&theme=react-dark" alt="GitHub Activity Graph" width="80%"/>
+</div>
+
+---
+
+## 🎯 Current Focus
+```python
+while True:
+    learn()
+    code()
+    innovate()
+    deploy()
