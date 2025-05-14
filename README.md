@@ -7,6 +7,12 @@
 - 😄 Pronouns: forever a HIM,HE🤩🤩
 - ⚡ Fun fact:👀 Procrastination left you outdated😄 
 ----------------------------------------------------------------------------------------------------
+
+![python](https://www.shutterstock.com/image-vector/python-coding-language-sign-on-260nw-1389877574.jpg) ; (![js](https://github.com/user-attachments/assets/5d7f23cd-119d-4102-a6fd-3d4dd8b57820) ; !![css](https://github.com/user-attachments/assets/27063051-9b89-456a-9896-f9d014694e85)
+
+
+
+
 <!---
 Farahou110/Farahou110 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
