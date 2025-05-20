@@ -5,17 +5,16 @@
 </div>
 
 👨‍💻 About Me
-🚀 Interests & Expertise
-🔍 Data Science | 💻 Software & Web Development | 🌐 Web3 & Blockchain
 
-🎓 Education & Certifications
-📜 Certified Software Engineer & Data Scientist
-🎓 Pursuing BSc in Computer Science
+-🚀 Interests & Expertise
+-🔍 Data Science | 💻 Software & Web Development | 🌐 Web3 & Blockchain
+-🎓 Education & Certifications
+-📜 Certified Software Engineer & Data Scientist
+-🎓 Pursuing BSc in Computer Science
+-🌐 Portfolio
+-🖥️ My Portfolio (Check out my work!)
 
-🌐 Portfolio
-🖥️ My Portfolio (Check out my work!)
-
-🤝 Collaboration
+🤝 
 🔧 Looking to collaborate on:
 
 Debugging (🐞 Squash those bugs!)
