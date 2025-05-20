@@ -4,16 +4,34 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=00F72E&width=435&lines=Software+Engineer;Data+Scientist;Blockchain+Enthusiast;Full-Stack+Developer" alt="Typing Animation" />
 </div>
 
-## 👨‍💻 About Me
-- 👀 Interested in **Data Science**, **Software & Web Development**, and  **diving into web3**
-- 🌱 Certified **Software Engineer** and **Data Scientist** |
-- Pursuing BSc in Computer Science
--   🕸 📜 my portfolio: (=https://denniskipkoechportfolio.vercel.app/)
-- 💞️ Looking to collaborate on **debugging** and **development projects**
-- 📫 Reach me: [dkipkoech@kabarak.ac.ke](mailto:dkipkoech@kabarak.ac.ke) | [dennisscorps110@gmail.com](mailto:dennisscorps110@gmail.com)
-- 😄 Pronouns: Forever a **HIM/HE** ;
-- *⚡ Fun fact: Procrastination left you outdated in tech! 🚀*
+👨‍💻 About Me
+🚀 Interests & Expertise
+🔍 Data Science | 💻 Software & Web Development | 🌐 Web3 & Blockchain
 
+🎓 Education & Certifications
+📜 Certified Software Engineer & Data Scientist
+🎓 Pursuing BSc in Computer Science
+
+🌐 Portfolio
+🖥️ My Portfolio (Check out my work!)
+
+🤝 Collaboration
+🔧 Looking to collaborate on:
+
+Debugging (🐞 Squash those bugs!)
+
+Development Projects (🚀 Build something amazing!)
+
+📩 Contact Me
+📧 Email:
+
+dkipkoech@kabarak.ac.ke (Academic)
+
+dennisscorps110@gmail.com (General)
+
+✨ Personal Touch
+💬 Pronouns: He/Him (Forever a HIM!)
+🔥 Fun Fact: "Procrastination leaves you outdated in tech—stay sharp! ⚡"
 ---
 
 
