@@ -5,16 +5,17 @@
 </div>
 
 👨‍💻 About Me
+🚀 Interests & Expertise
+🔍 Data Science | 💻 Software & Web Development | 🌐 Web3 & Blockchain
 
--🚀 Interests & Expertise
--🔍 Data Science | 💻 Software & Web Development | 🌐 Web3 & Blockchain
--🎓 Education & Certifications
--📜 Certified Software Engineer & Data Scientist
--🎓 Pursuing BSc in Computer Science
--🌐 Portfolio
--🖥️ My Portfolio (Check out my work!)
+🎓 Education & Certifications
+📜 Certified Software Engineer & Data Scientist
+🎓 Pursuing BSc in Computer Science
 
-🤝 
+🌐 Portfolio
+🖥️ My Portfolio (Check out my work!)
+
+🤝 Collaboration
 🔧 Looking to collaborate on:
 
 Debugging (🐞 Squash those bugs!)
@@ -31,6 +32,7 @@ dennisscorps110@gmail.com (General)
 ✨ Personal Touch
 💬 Pronouns: He/Him (Forever a HIM!)
 🔥 Fun Fact: "Procrastination leaves you outdated in tech—stay sharp! ⚡"
+---
 ---
 
 
