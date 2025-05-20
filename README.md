@@ -93,7 +93,7 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Farahou110&theme=react-dark" alt="GitHub Activity Graph" width="80%"/>
 </div>
----
+
 ## 🎯 Current Focus
 ```python
 while True:
