@@ -4,34 +4,28 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=00F72E&width=435&lines=Software+Engineer;Data+Scientist;Blockchain+Enthusiast;Full-Stack+Developer" alt="Typing Animation" />
 </div>
 
-👨‍💻 About Me
-🚀 Interests & Expertise
-🔍 Data Science | 💻 Software & Web Development | 🌐 Web3 & Blockchain
-
-🎓 Education & Certifications
-📜 Certified Software Engineer & Data Scientist
-🎓 Pursuing BSc in Computer Science
-
-🌐 Portfolio
-🖥️ My Portfolio (Check out my work!)
-
-🤝 Collaboration
-🔧 Looking to collaborate on:
-
-Debugging (🐞 Squash those bugs!)
-
-Development Projects (🚀 Build something amazing!)
-
-📩 Contact Me
-📧 Email:
-
-dkipkoech@kabarak.ac.ke (Academic)
-
-dennisscorps110@gmail.com (General)
-
-✨ Personal Touch
-💬 Pronouns: He/Him (Forever a HIM!)
-🔥 Fun Fact: "Procrastination leaves you outdated in tech—stay sharp! ⚡"
+1. 👨‍💻 About Me
+    1. 🚀 Interests & Expertise
+        - 🔍 Data Science
+        - 💻 Software & Web Development
+        - 🌐 Web3 & Blockchain
+    2. 🎓 Education & Certifications
+        - 📜 Certified Software Engineer & Data Scientist
+        - 🎓 Pursuing BSc in Computer Science
+    3. 🌐 Portfolio
+        - 🖥️ My Portfolio (Check out my work!)
+    4. 🤝 Collaboration
+        - 🔧 Looking to collaborate on:
+            - Debugging (🐞 Squash those bugs!)
+            - Development Projects (🚀 Build something amazing!)
+    5. 📩 Contact Me
+        - 📧 Email:
+            - dkipkoech@kabarak.ac.ke (Academic)
+            - dennisscorps110@gmail.com (General)
+    6. ✨ Personal Touch
+        - 💬 Pronouns: He/Him (Forever a HIM!)
+        - 🔥 Fun Fact: "Procrastination leaves you outdated in tech—stay sharp! ⚡"
+---
 ---
 ---
 
