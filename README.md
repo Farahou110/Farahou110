@@ -86,12 +86,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Farahou110&show_icons=true&theme=radical" alt="GitHub Stats" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Farahou110&theme=radical" alt="GitHub Streak" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=chickens110&show_icons=true&theme=radical" alt="GitHub Stats" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chickens110&theme=radical" alt="GitHub Streak" width="45%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Farahou110&theme=react-dark" alt="GitHub Activity Graph" width="80%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chickens110&theme=react-dark" alt="GitHub Activity Graph" width="80%"/>
 </div>
 
 ## 🎯 Current Focus
